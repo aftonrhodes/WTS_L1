@@ -502,7 +502,7 @@ include 'var.php';
 				
 				<!-- Testimonial 1 -->
 				<div class="col-sm-6">
-					<div class="wts_testimonial"><!--dotstheme = wts-->
+					<div class="wts_testimonial">
 						<div class="testimonial-wrapper">
 							<div class="testimonial-content">
 								<p>"<?php echo $testimonial1; ?>"</p>
