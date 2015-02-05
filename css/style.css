@@ -168,9 +168,6 @@ video {
 
 .required { color:#f9331e;	}
 
-/*.animation { visibility:hidden; }*/
-.animated { visibility:visible; }
-
 /*Site Elements*/
 
 input[type="text"], input[type="password"], input[type="email"], textarea {
