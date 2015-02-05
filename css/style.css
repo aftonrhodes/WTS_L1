@@ -359,15 +359,6 @@ figure .figure-hover div .icon-hover .icon-hover-zoom {
 	border-radius:0;
 }
 
-.list-style ul li {
-	list-style:none;
-	margin-bottom:5px;
-}
-
-.list-style .list-arrow ul li { list-style-image:url(../images/list-arrow.png); }
-.list-style .list-arrow-bold ul li { list-style-image:url(../images/list-arrow-bold.png); }
-.list-style .list-arrow-circle ul li { list-style-image:url(../images/list-arrow-circle.png); }
-
 .wts-contact-wrapper {
 	color:#a9a9a9;
 	background-color:#f4f4f4;
