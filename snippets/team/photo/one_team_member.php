@@ -4,7 +4,7 @@
 
 			<div class="content-heading-center" id="team">
 				<h2><?php echo $team_member1; ?></h2>
-                <p>Building a solid relationship with you and all our other clients is what helps set us apart from all other accounting firms...</p> 
+                <p>Building a solid relationship with you and all our other clients is what helps set us apart from all other <?php echo $business_2; ?> firms...</p> 
                 <p>Which is why the team actually consists of YOU and <?php echo $company_name; ?>.</p>
                 
                 <p>Having said that, let me introduce myself to you...</p>

@@ -5,7 +5,7 @@
 			<div class="content-heading-center" id="team">
 				<h2>Our Team</h2>
                 <p>The team is about more than just us... It is about a relationship between YOU and us.</p>
-                <p>That's why we work so hard to build a solid relationship with you and all our other clients. It's what helps set us apart from all other accounting firms.</p>
+                <p>That's why we work so hard to build a solid relationship with you and all our other clients. It's what helps set us apart from all other <?php echo $business_2; ?> firms.</p>
                 <p>Having said that, let us introduce ourselves to you...</p>
 			</div>
 			
