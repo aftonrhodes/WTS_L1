@@ -25,7 +25,6 @@ include 'var.php';
     <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
-    <link rel="stylesheet" href="css/animate.min.css" />
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
@@ -123,7 +122,7 @@ include 'var.php';
 					<div class="wts_feature">
 						<div class="feature_edge">
 						</div>
-						<img src="images/services.png" alt="Services" class="animation" data-animation="animation-fade-in-down" />
+						<img src="images/services.png" alt="Services" />
 						<h4><a href="#services" class="smooth-scroll" style="text-decoration:none;">Services</a></h4>
 						<p>All of our services are designed with you firmly in mind. You can rest assured that when you become our client, there will not be any hidden charges. All fees are fixed to one, manageable monthly fee agreed with you in advance.</p>
 					</div>
@@ -133,7 +132,7 @@ include 'var.php';
 					<div class="wts_feature">
 						<div class="feature_edge">
 						</div>
-						<img src="images/growthchart.png" alt="Business Growth" class="animation" data-animation="animation-fade-in-down" />
+						<img src="images/growthchart.png" alt="Business Growth" />
 						<h4><a href="#growth" class="smooth-scroll" style="text-decoration:none;">We help to GROW your business</a></h4>
 						<p>We know that most of our clients would benefit from more sales, customers and profits. So we have invested a significant sum in sponsoring <a href="http://www.bgsvault.com">The Business Growth System</a> - one of the world's most successful sales &amp; marketing systems.</p>
 					</div>
@@ -143,7 +142,7 @@ include 'var.php';
 					<div class="wts_feature">
 						<div class="feature_edge">
 						</div>
-						<img src="images/support.png" alt="Support" class="animation" data-animation="animation-fade-in-down" />
+						<img src="images/support.png" alt="Support" />
 						<h4><a href="#header" class="smooth-scroll" style="text-decoration:none;">Free &amp; Unlimited Support</a></h4>
 						<p>All of our support is FREE and unlimited. Need a word of advice? Call us. As one of our clients, this is included in your low, fixed monthly fee. You even get direct access to the partners of the firm, whenever you need them.</p>
 					</div>
@@ -162,7 +161,7 @@ include 'var.php';
 
 				<div class="col-sm-5 hidden-xs">
 					<figure>
-						<img src="images/laptop.jpg" alt="Business Growth System" class="animation" data-animation="animation-fade-in-left" />
+						<img src="images/laptop.jpg" alt="Business Growth System" />
 					</figure>
 				</div>
 
@@ -199,7 +198,7 @@ include 'var.php';
 
 				<figure class="growth">
 
-					<ul class="animation text-shadow" data-animation-"animation-fade-in-up">
+					<ul>
 						<li>It's quick to implement.</li>
 						<li>The strategies are low cost or even free to apply.</li>
 						<li>The system helps to generate many more sales and customers for you.</li>
@@ -241,7 +240,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/1.jpg" title="<?php echo $team_member1; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/1.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/1.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -261,7 +260,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/2.jpg" title="<?php echo $team_member2; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/2.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/2.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -281,7 +280,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/3.jpg" title="<?php echo $team_member3; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/3.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/3.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -309,7 +308,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/4.jpg" title="<?php echo $team_member4; ?>" class="fancybox" data-fancybox-group="images/gallery">
 							<figure class="figure-hover">
-								<img src="images/team/4.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/4.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -329,7 +328,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/5.jpg" title="<?php echo $team_member5; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/5.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/5.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -349,7 +348,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/6.jpg" title="<?php echo $team_member6; ?>" class="fancybox" data-fancyboxy-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/6.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/6.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -408,7 +407,7 @@ include 'var.php';
 					<div class="col-sm-4 tbl-srv-col">
 						<div class="tbl-srv-base">
 							<div class="tbl-srv-heading">
-								<img src="images/compliance.png" alt="Compliance Services" class="animation" data-animation="animation-fade-in-up" />
+								<img src="images/compliance.png" alt="Compliance Services" />
 								<h4>Compliance Services</h4>
 							</div>
 							<div class="tbl-srv-featured">
@@ -432,7 +431,7 @@ include 'var.php';
 					<div class="col-sm-4 tbl-srv-col">
 						<div class="tbl-srv-base">
 							<div class="tbl-srv-heading">
-								<img src="images/timesaving.png" alt="Time Saving Services" class="animation" data-animation="animation-fade-in-up" />
+								<img src="images/timesaving.png" alt="Time Saving Services" />
 								<h4>Time-Saving Services</h4>
 							</div>
 							<div class="tbl-srv-featured">
@@ -456,7 +455,7 @@ include 'var.php';
 					<div class="col-sm-4 tbl-srv-col">
 						<div class="tbl-srv-base">
 							<div class="tbl-srv-heading">
-								<img src="images/valueadded.png" alt="Value Added Services" class="animation" data-animation="animation-fade-in-up" />
+								<img src="images/valueadded.png" alt="Value Added Services" />
 								<h4>Value-Added Services</h4>
 							</div>
 							<div class="tbl-srv-featured">
