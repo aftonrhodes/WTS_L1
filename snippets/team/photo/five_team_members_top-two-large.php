@@ -1,4 +1,4 @@
-<!-- CONTAINER START -->
+		<!-- CONTAINER START -->
 
 		<div class="container">
 
@@ -14,7 +14,7 @@
 			<div class="row">
 
 				<!-- Team Member 1 -->
-				<div class="col-sm-4 team-item">
+				<div class="col-sm-6 team-item">
 
 					<div class="team-wrapper">
 						<a href="images/team/1.jpg" title="<?php echo $team_member1; ?>" class="fancybox" data-fancybox-group="images_gallery">
@@ -34,7 +34,7 @@
 				</div>
 				
 				<!-- Team Member 2 -->
-				<div class="col-sm-4 team-item">
+				<div class="col-sm-6 team-item">
 					
 					<div class="team-wrapper">
 						<a href="images/team/2.jpg" title="<?php echo $team_member2; ?>" class="fancybox" data-fancybox-group="images_gallery">
@@ -52,7 +52,15 @@
 					</div>
 
 				</div>
+			</div>
 
+			<!-- TEAM PHOTO FIRST ROW END -->
+
+
+			<!-- TEAM PHOTO SECOND ROW START -->
+
+			<div class="row">
+				
 				<!-- Team Member 3 -->
 				<div class="col-sm-4 team-item">
 					
@@ -73,13 +81,8 @@
 
 				</div>
 
-			</div>
 
-			<!-- TEAM PHOTO FIRST ROW END -->
 
-			<!-- TEAM PHOTO SECOND ROW START -->
-
-			<div class="row">
 				
 				<!-- Team Member 4 -->
 				<div class="col-sm-4 team-item">
@@ -116,26 +119,6 @@
 						<div class="team-content">
 							<h4 class="entry-title"><?php echo $team_member5; ?></h4>
 							<p class="entry-meta"><?php echo $team_member5_title; ?></p>
-						</div>
-					</div>
-
-				</div>
-
-				<!-- Team Member 6 -->
-				<div class="col-sm-4 team-item">
-					
-					<div class="team-wrapper">
-						<a href="images/team/6.jpg" title="<?php echo $team_member6; ?>" class="fancybox" data-fancyboxy-group="images_gallery">
-							<figure class="figure-hover">
-								<img src="images/team/6.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
-								<div>
-									<span class="icon-hover icon-hover-zoom"></span>
-								</div>
-							</figure>
-						</a>
-						<div class="team-content">
-							<h4 class="entry-title"><?php echo $team_member6; ?></h4>
-							<p class="entry-meta"><?php echo $team_member6_title; ?></p>
 						</div>
 					</div>
 
