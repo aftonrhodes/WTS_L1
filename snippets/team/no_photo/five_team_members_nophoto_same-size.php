@@ -1,3 +1,4 @@
+
 		<!-- CONTAINER START -->
 
 		<div class="container">
@@ -58,7 +59,7 @@
 			<div class="row">
 				
 				<!-- Team Member 4 -->
-				<div class="col-sm-4 team-item">
+				<div class="col-sm-4 col-sm-offset-2 team-item">
 
 					<div class="team-wrapper">
 						<div class="team-content">
@@ -81,17 +82,6 @@
 
 				</div>
 
-				<!-- Team Member 6 -->
-				<div class="col-sm-4 team-item">
-					
-					<div class="team-wrapper">
-						<div class="team-content">
-							<h4 class="entry-title"><?php echo $team_member6; ?></h4>
-							<p class="entry-meta"><?php echo $team_member6_title; ?></p>
-						</div>
-					</div>
-
-				</div>
 
 			</div>
 
