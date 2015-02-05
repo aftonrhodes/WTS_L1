@@ -23,6 +23,8 @@ $business = 'Accountants'; // start with capital letter
 
 $business_2 = 'accounting'; // lowercase
 
+
+
 $nav_menu = array (
 
 'Home' => 'index.php',
