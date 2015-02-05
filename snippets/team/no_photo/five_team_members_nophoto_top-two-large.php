@@ -1,4 +1,4 @@
-<!-- CONTAINER START -->
+		<!-- CONTAINER START -->
 
 		<div class="container">
 
@@ -14,17 +14,9 @@
 			<div class="row">
 
 				<!-- Team Member 1 -->
-				<div class="col-sm-4 col-sm-offset-2 team-item">
+				<div class="col-sm-6 team-item">
 
 					<div class="team-wrapper">
-						<a href="images/team/1.jpg" title="<?php echo $team_member1; ?>" class="fancybox" data-fancybox-group="images_gallery">
-							<figure class="figure-hover">
-								<img src="images/team/1.jpg" alt="Thumbnail" />
-								<div>
-									<span class="icon-hover icon-hover-zoom"></span>
-								</div>
-							</figure>
-						</a>
 						<div class="team-content">
 							<h4 class="entry-title"><?php echo $team_member1; ?></h4>
 							<p class="entry-meta"><?php echo $team_member1_title; ?></p>
@@ -34,17 +26,9 @@
 				</div>
 				
 				<!-- Team Member 2 -->
-				<div class="col-sm-4 team-item">
+				<div class="col-sm-6 team-item">
 					
 					<div class="team-wrapper">
-						<a href="images/team/2.jpg" title="<?php echo $team_member2; ?>" class="fancybox" data-fancybox-group="images_gallery">
-							<figure class="figure-hover">
-								<img src="images/team/2.jpg" alt="Thumbnail" />
-								<div>
-									<span class="icon-hover icon-hover-zoom"></span>
-								</div>
-							</figure>
-						</a>
 						<div class="team-content">
 							<h4 class="entry-title"><?php echo $team_member2; ?></h4>
 							<p class="entry-meta"><?php echo $team_member2_title; ?></p>
@@ -57,23 +41,14 @@
 
 			<!-- TEAM PHOTO FIRST ROW END -->
 
-
 			<!-- TEAM PHOTO SECOND ROW START -->
 
 			<div class="row">
 
 				<!-- Team Member 3 -->
-				<div class="col-sm-4 col-sm-offset-2 team-item">
+				<div class="col-sm-4 team-item">
 					
 					<div class="team-wrapper">
-						<a href="images/team/3.jpg" title="<?php echo $team_member3; ?>" class="fancybox" data-fancybox-group="images_gallery">
-							<figure class="figure-hover">
-								<img src="images/team/3.jpg" alt="Thumbnail" />
-								<div>
-									<span class="icon-hover icon-hover-zoom"></span>
-								</div>
-							</figure>
-						</a>
 						<div class="team-content">
 							<h4 class="entry-title"><?php echo $team_member3; ?></h4>
 							<p class="entry-meta"><?php echo $team_member3_title; ?></p>
@@ -83,20 +58,11 @@
 				</div>
 
 
-
 				
 				<!-- Team Member 4 -->
 				<div class="col-sm-4 team-item">
 
 					<div class="team-wrapper">
-						<a href="images/team/4.jpg" title="<?php echo $team_member4; ?>" class="fancybox" data-fancybox-group="images/gallery">
-							<figure class="figure-hover">
-								<img src="images/team/4.jpg" alt="Thumbnail" />
-								<div>
-									<span class="icon-hover icon-hover-zoom"></span>
-								</div>
-							</figure>
-						</a>
 						<div class="team-content">
 							<h4 class="entry-title"><?php echo $team_member4; ?></h4>
 							<p class="entry-meta"><?php echo $team_member4_title; ?></p>
@@ -104,6 +70,19 @@
 					</div>
 
 				</div>
+
+				<!-- Team Member 5 -->
+				<div class="col-sm-4 team-item">
+					
+					<div class="team-wrapper">
+						<div class="team-content">
+							<h4 class="entry-title"><?php echo $team_member5; ?></h4>
+							<p class="entry-meta"><?php echo $team_member5_title; ?></p>
+						</div>
+					</div>
+
+				</div>
+
 
 			</div>
 

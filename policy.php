@@ -24,7 +24,6 @@ include 'var.php';
     <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
-    <link rel="stylesheet" href="css/animate.min.css" />
     <link rel="stylesheet" href="css/style.css" />
 	
 </head>

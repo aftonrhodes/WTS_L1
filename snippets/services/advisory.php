@@ -3,7 +3,7 @@
 					<div class="col-sm-4 tbl-srv-col">
 						<div class="tbl-srv-base">
 							<div class="tbl-srv-heading">
-								<img src="images/compliance.png" alt="Advisory Services" class="animation" data-animation="animation-fade-in-up" />
+								<img src="images/compliance.png" alt="Advisory Services" />
 								<h4>Advisory Services</h4>
 							</div>
 							<div class="tbl-srv-featured">

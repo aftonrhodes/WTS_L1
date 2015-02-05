@@ -20,7 +20,7 @@
 					<div class="team-wrapper">
 						<a href="images/team/1.jpg" title="<?php echo $team_member1; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/1.jpg" alt="Thumbnail" class="animation" data-animation="animation-fade-in" />
+								<img src="images/team/1.jpg" alt="Thumbnail" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
