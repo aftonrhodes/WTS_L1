@@ -9,7 +9,7 @@ include 'var.php';
 <head>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE-edge" />
-	<title>Policy | <?php echo $company_name ?> - Accountants in <?php echo $location; ?></title>
+	<title>Policy | <?php echo $company_name ?> - <?php echo $business; ?> in <?php echo $location; ?></title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 	<meta name="author" content="Academy For Growth" />
