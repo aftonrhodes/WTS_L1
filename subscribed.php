@@ -166,7 +166,7 @@ include 'var.php';
 						</div>
 						<img src="images/growthchart.png" alt="Business Growth" />
 						<h4><a href="#growth" class="smooth-scroll" style="text-decoration:none;">We help to GROW your business</a></h4>
-						<p>We know that most of our clients would benefit from more sales, customers and profits. So we have invested a significant sum in sponsoring <a href="http://www.bgsvault.com">The Business Growth System</a> - one of the world's most successful sales &amp; marketing systems.</p>
+						<p>We know that most of our clients would benefit from more sales, customers and profits. So we have invested a significant sum in sponsoring "The Business Growth System" - one of the world's most successful sales &amp; marketing systems.</p>
 					</div>
 				</div>
 	
@@ -203,8 +203,8 @@ include 'var.php';
 							<h2>We have THE solution</h2>
 						</div>
 						<p>If you're looking to grow your business, we have THE solution.</p>
-						<p class="hidden-sm">Many of the decisions small/medium sized business owners must make would be made simpler if their business could attract more income. We are determined to create highly successful relationships with our clients - and in sponsoring <a href="http://www.bgsvault.com">The Business Growth System</a> we make another concrete demonstration of how we go further for our clients.</p>
-                        <p class="hidden-sm">We put you first. Always. Quite frankly, we've never seen anything like it - and we know you'll be similarly impressed. <a href="http://www.bgsvault.com">The Business Growth System</a> contains everything you will ever need to attract more customers, increase your sales and retain customers for much longer.</p>
+						<p class="hidden-sm">Many of the decisions small/medium sized business owners must make would be made simpler if their business could attract more income. We are determined to create highly successful relationships with our clients - and in sponsoring "The Business Growth System" we make another concrete demonstration of how we go further for our clients.</p>
+                        <p class="hidden-sm">We put you first. Always. Quite frankly, we've never seen anything like it - and we know you'll be similarly impressed. "The Business Growth System" contains everything you will ever need to attract more customers, increase your sales and retain customers for much longer.</p>
                         <p>All included, at no extra cost, when you become one of our clients.</p>
 					</div>
 				</div>
