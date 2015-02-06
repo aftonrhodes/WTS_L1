@@ -116,7 +116,7 @@ include 'var.php';
 						<div class="header-text-subscribed">
 							<h3>Thank you, Name.</h3>
 							<p>A member of our team will be in touch shortly...</p>
-							<p>If you need to contact us urgently, call us on <?php echo $phone; ?>.</p>
+							<p>If you need to contact us urgently, call us on <span><?php echo $phone; ?></span>.</p>
 						</div>
 					</div>
 
