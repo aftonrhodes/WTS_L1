@@ -6,6 +6,7 @@
 =Main Content
 =Media Queries
 =Growth
+=Team
 =Newsletter
 =Footer
 =Policy
@@ -1391,6 +1392,54 @@ header {
 .text-shadow li {
 	text-shadow: 0 0 4px #36454F;
 }
+
+/**
+*************************
+* =Team
+*************************
+**/
+
+figure.figure-hover {
+	overflow:hidden;
+	position:relative;
+}
+	
+figure.figure-hover div {
+	display:none;
+	position:absolute;
+	overflow:hidden;
+	text-align:center;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background:url(../images/base-figure-overlay.png) repeat;
+}
+	
+figure.figure-hover img {
+	-webkit-transition:all .2s ease-in-out;
+	-moz-transition:all .2s ease-in-out;
+	-o-transition:all .2s ease-in-out;
+	-ms-transition:all .2s ease-in-out;
+	transition:all .2s ease-in-out;
+}
+	
+figure.figure-hover:hover img {
+	-webkit-transform:scale(1.5); 
+	-moz-transform:scale(1.5);
+	-o-transform:scale(1.5);
+	transform:scale(1.5);	
+}
+
+figure.figure-hover div .icon-hover {
+	position:absolute;
+	left:0;
+	bottom:100%;
+	width:100%;
+	height:100%;
+}
+		
+figure.figure-hover div .icon-hover.icon-hover-zoom { background:url(../images/icon-hover-zoom.png) no-repeat center center; }
 
 
 /**
