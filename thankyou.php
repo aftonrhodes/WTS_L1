@@ -31,12 +31,45 @@ include 'var.php';
 		<div class="container">
 			
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data toggle="collapse" data-target="#menu-collapse-1">
-					<span class="sr-only">Menu</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
+
+				<?php 
+
+					function button1($attr, $text) {
+					  $data = "<button ";
+
+					  foreach($attr as $names => $specs) {
+					    $data .= $names . "='" . $specs . "' ";
+					}
+
+					  $data .= ">" . $text . "</button>\n";
+					return $data;
+					}
+
+					function span1($attr, $text) {
+					  $data = "<span ";
+
+					  foreach($attr as $names => $specs) {
+					    $data .= $names . "='" . $specs . "' ";
+					  }
+
+					  $data .= ">" . $text . "</span>\n";
+					  return $data;
+					}
+
+					echo button1(
+					  array( "type" => "button",
+					         "class" => "navbar-toggle collapsed",
+					         "data-toggle" => "collapse",
+					         "data-target" => "#menu-collapse-1" ),
+					  span1(
+					    array( "class" => "sr-only",
+					    		"class" => "icon-bar icon-bar-2"),
+					    "")
+					  
+					);
+
+				?>
+
 				<div class="navbar-brand">
 					<p><?php echo $company_name; ?></p>
 				</div>
