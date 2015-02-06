@@ -761,6 +761,11 @@ header {
 	margin-bottom:15px;
 }
 
+.header-text p span {
+	color: #FFF;
+	font-weight: bolder;
+}
+
 .header-text-subscribed {
 	color:#c9c9c9;
 	font-size:18px;
@@ -785,6 +790,12 @@ header {
 	text-transform:uppercase;
 	margin-bottom:15px;
 }
+
+.header-text-subscribed p span {
+	color: #FFF;
+	font-weight: bolder;
+}
+
 /**
 *************************
 * =Main Content

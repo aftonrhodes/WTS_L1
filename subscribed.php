@@ -121,7 +121,7 @@ include 'var.php';
 							<h3>Thank you and welcome aboard!</h3>
 							<p>You're now a subscriber to our monthly Business Builder newsletter.</p>
 							<p>We hope that you will enjoy reading and applying the business growth strategies. Keep an eye on your emails... the newsletter is distributed once per month, so you should receive your first copy within one month of subscribing.</p>
-							<p>If for any reason you don't receive your newsletter, call us on <?php echo $phone; ?>.</p>
+							<p>If for any reason you don't receive your newsletter, call us on <span><?php echo $phone; ?></span>.</p>
 						</div>
 					</div>
 

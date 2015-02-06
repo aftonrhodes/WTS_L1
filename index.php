@@ -122,8 +122,9 @@ include 'var.php';
 						<div class="header-text">
 							<h3><?php echo $business; ?> in <?php echo $location; ?></h3>
 							<h1>Grow your business and save you money</h1>
-							<p>Call Us Today On <?php echo $phone; ?> To Find Out How We Can Make A Real Difference To Your Business.</p>
+							<p>Call Us Today On <span><?php echo $phone; ?></span> To Find Out How We Can Make A Real Difference To Your Business.</p>
 							<p>Or Fill Out The Contact Form To Request A Free No-Obligation Meeting.</p>
+							<p>We'll donate <span><?php echo $currency ?>100</span> to your favourite charity if you do not consider our meeting to be of immense value!</p>
 						</div>
 					</div>
 
