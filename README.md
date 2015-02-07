@@ -9,6 +9,8 @@ NOTE: Any changes to the var.php, once approved and merged to the master reposit
 
 Instructions TBA
 
+## Customisation & Setup
+
 ## Usage
 
 The WTS_L1 is an exclusive landing site (comprised of a number of 'Google Adwords' keyword related landing pages) for members of the Accountants Growth Programme only. The site is set up and provided by Academy For Growth Ltd upon application from the member.
