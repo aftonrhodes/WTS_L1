@@ -5,18 +5,17 @@ This documentation is for the WTS_L1 Landing Page Repository
 ----
 NOTE: Any changes to the var.php, once approved and merged to the master repository must be applied to the WTS_L1 snippets in Gist - and be re-saved in Sublime Text.
 
-TODO: Write a project description
-
 ## Installation
 
-TODO: Describe the installation process
+Instructions TBA
 
 ## Usage
 
-TODO: Write usage instructions
+The WTS_L1 is an exclusive landing site (comprised of a number of 'Google Adwords' keyword related landing pages) for members of the Accountants Growth Programme only. The site is set up and provided by Academy For Growth Ltd upon application from the member.
 
 ## Contributing
 
+PLACEHOLDER INFO - PLEASE IGNORE
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
@@ -25,12 +24,12 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+History TBA
 
 ## Credits
 
-TODO: Write credits
+Credits TBA
 
 ## License
 
-TODO: Write license
+License TBA
