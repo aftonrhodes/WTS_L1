@@ -1551,3 +1551,11 @@ footer .social li a { color:#999; }
 	display: inline;
 	padding:10px;
 }
+
+.pol-titles h2 {
+	margin-bottom: 20px;
+}
+
+.pol-titles p span {
+	font-weight: bolder;
+}
