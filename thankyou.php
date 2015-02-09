@@ -267,7 +267,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/1.jpg" title="<?php echo $team_member1; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/1.jpg" alt="Thumbnail" />
+								<img src="images/team/1.jpg" alt="<?php echo $team_member1; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -287,7 +287,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/2.jpg" title="<?php echo $team_member2; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/2.jpg" alt="Thumbnail" />
+								<img src="images/team/2.jpg" alt="<?php echo $team_member2; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -307,7 +307,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/3.jpg" title="<?php echo $team_member3; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/3.jpg" alt="Thumbnail" />
+								<img src="images/team/3.jpg" alt="<?php echo $team_member3; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -335,7 +335,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/4.jpg" title="<?php echo $team_member4; ?>" class="fancybox" data-fancybox-group="images/gallery">
 							<figure class="figure-hover">
-								<img src="images/team/4.jpg" alt="Thumbnail" />
+								<img src="images/team/4.jpg" alt="<?php echo $team_member4; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -355,7 +355,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/5.jpg" title="<?php echo $team_member5; ?>" class="fancybox" data-fancybox-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/5.jpg" alt="Thumbnail" />
+								<img src="images/team/5.jpg" alt="<?php echo $team_member5; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
@@ -375,7 +375,7 @@ include 'var.php';
 					<div class="team-wrapper">
 						<a href="images/team/6.jpg" title="<?php echo $team_member6; ?>" class="fancybox" data-fancyboxy-group="images_gallery">
 							<figure class="figure-hover">
-								<img src="images/team/6.jpg" alt="Thumbnail" />
+								<img src="images/team/6.jpg" alt="<?php echo $team_member6; ?>" />
 								<div>
 									<span class="icon-hover icon-hover-zoom"></span>
 								</div>
